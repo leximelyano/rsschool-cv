@@ -1,28 +1,26 @@
 # CV
 
-1. Бойко, Алексей
-2. Контактная информация :
-Телефон +79258024145 
-Элкектронная почта (Bikosol@yandex.ru)
-3. Цель - Стать востребовательным iOS разработчиком
-Чем заниматься:
-Получить больше практического опыта в разработке клиент - серверных мобильных приложений с использованием архитектуры 
-(MVC, MVVM, VIPER),получить навыки мобильной разработки в команде.Уверенные знания CocoaPods, UIKit, Foundation CoreData, CoreAnimation, работа с многопоточностью: GCD, OperationQueue.Получить навыки проведения Code Review. 
+1. Boyko Alexey
+2. Bikosol@yandex.ru
+3. The goal is to become an in-demand iOS developer
+What to do:
+Gain more hands-on experience in developing client-server mobile applications using the architecture
+(MVC, MVVM), gain mobile development skills in a team. CocoaPods, UIKit, Foundation CoreData, CoreAnimation.
 
-О себе:
-Прошел курсы SkillBox (iOS - разработка), стэнфордский курс CS193P «Developing  iOS 11 Apps with Swift» 2017 года. 
-Изучил книги:
-Руководство по swift от Apple
-Основы разработки приложения под iOS и macOS. (Усов)
-Имею следующие навыки:
-Swift 
-UI верстка кода 
-MVC 
-Git
+About me:
+Completed the SkillBox (iOS Development) course, the 2017 Stanford CS193P course "Developing iOS 11 Apps with Swift".
+I studied the books:
+Apple's Swift Guide
+Basics of app development for iOS and macOS. (Mustache)
+I have the following skills:
+Swift
+UI layout
+Git code
 
-Дополнительно:
-Принимал участие в качестве зрителя на конференции Mobius, также другие online курсы в сети. Занимаюсь с репетитором  по  iOS разработке два раза в неделю. Также занимаюсь английским языком.
-
-4. Высшее образование: Московский государственный университет экономики, статистики и информатики
+Additionally:
+Participated as a spectator at the Mobius conference, as well as other online courses on the network. I work with a tutor on iOS development twice a week. I also study English.
+4. SWIFT
 5. https://github.com/leximelyano/forInternship.git
-6. Английский — A1 — Начальный
+6. Don't have experiance
+7. Education: Moscow State University of Economics, Statistics and Informatics
+8. English-A1
