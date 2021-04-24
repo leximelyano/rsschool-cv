@@ -1,1 +1,1 @@
-# https://leximelyano.github.io/rsschool-cv/CV
+# https://leximelyano.github.io/rsschool-cv/cv
